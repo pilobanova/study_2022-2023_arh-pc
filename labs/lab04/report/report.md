@@ -96,7 +96,7 @@ header-includes:
 
 8. Перенесем файлы на github.
 
-![*Загрузка файлов на github.*](/home/pilobanova/work/study/2022-2023/Архитектура компьютера/arch-pc/labs/lab04/report/image/10.png){ #fig:009 width=70% }
+![*Загрузка файлов на github.*](/home/pilobanova/work/study/2022-2023/Архитектура компьютера/arch-pc/labs/lab04/report/image/10.jpg){ #fig:009 width=70% }
 
 # Выполнения самостоятельной работы
 
@@ -106,7 +106,7 @@ header-includes:
 
 2. Загрузим файлы на github.
 
-
+![*Загрузка файлов на github.*](/home/pilobanova/work/study/2022-2023/Архитектура компьютера/arch-pc/labs/lab04/report/image/10.jpg){ #fig:011 width=70% }
 
 # Вывод
 
